@@ -197,7 +197,7 @@ http.route({
             
             As a professional nutrition coach:
             - Calculate appropriate daily calorie intake based on the person's stats and goals
-            - Create a balanced meal plan with proper macronutrient distribution
+            - Create a balanced meal plan with proper macronutrient distribution keep in mind that the user is indian and suggest food commonly used in indian household like rice and lentils etc
             - Include a variety of nutrient-dense foods while respecting dietary restrictions
             - Consider meal timing around workouts for optimal performance and recovery
             
